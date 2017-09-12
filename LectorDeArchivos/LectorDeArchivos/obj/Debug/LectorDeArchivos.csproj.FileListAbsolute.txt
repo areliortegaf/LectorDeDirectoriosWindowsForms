@@ -1,0 +1,10 @@
+C:\Users\asortega\source\repos\LectorDeArchivos\LectorDeArchivos\bin\Debug\LectorDeArchivos.exe.config
+C:\Users\asortega\source\repos\LectorDeArchivos\LectorDeArchivos\bin\Debug\LectorDeArchivos.exe
+C:\Users\asortega\source\repos\LectorDeArchivos\LectorDeArchivos\bin\Debug\LectorDeArchivos.pdb
+C:\Users\asortega\source\repos\LectorDeArchivos\LectorDeArchivos\obj\Debug\LectorDeArchivos.csprojResolveAssemblyReference.cache
+C:\Users\asortega\source\repos\LectorDeArchivos\LectorDeArchivos\obj\Debug\LectorDeArchivos.Form1.resources
+C:\Users\asortega\source\repos\LectorDeArchivos\LectorDeArchivos\obj\Debug\LectorDeArchivos.Properties.Resources.resources
+C:\Users\asortega\source\repos\LectorDeArchivos\LectorDeArchivos\obj\Debug\LectorDeArchivos.csproj.GenerateResource.Cache
+C:\Users\asortega\source\repos\LectorDeArchivos\LectorDeArchivos\obj\Debug\LectorDeArchivos.csproj.CoreCompileInputs.cache
+C:\Users\asortega\source\repos\LectorDeArchivos\LectorDeArchivos\obj\Debug\LectorDeArchivos.exe
+C:\Users\asortega\source\repos\LectorDeArchivos\LectorDeArchivos\obj\Debug\LectorDeArchivos.pdb
